@@ -1,6 +1,8 @@
 <div align="center">HTTP-TRACKER</div>
 <br/><br/>
 
+#### Changed manifest to v3 to allow installation and usage (Chrome)
+
 # What is HTTP-TRACKER?
 
 HTTP-TRACKER is a browser extension which tracks the network on the browser (chrome and firefox). What ever is captured on the network tab in a browser, the same and more can be done by this extension. This provides a centralized window which displays the entire requests - responses from all the tabs and all windows of the browser. This can also track the private/incognito window tabs (if permission is enabled), bringing everything into a central place.

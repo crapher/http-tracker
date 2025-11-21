@@ -110,7 +110,7 @@ input {
 }
 
 .web_event_list_container {
-  max-height: 300px;
+  max-height: 350px;
   overflow-y: auto;
   border-bottom: 1px solid;
   font-family: Courier New;
@@ -237,10 +237,6 @@ input {
 }
 
 .web_event_response_header_details {
-  width: 100%;
-}
-
-.web_event_request_header_details {
   width: 100%;
 }
 
